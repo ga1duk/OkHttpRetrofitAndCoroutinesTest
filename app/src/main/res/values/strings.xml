@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitWithCoroutinesTest</string>
+    <string name="post_text">Hello, kotlin!!!</string>
+</resources>
